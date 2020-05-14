@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "161103_충돌해결법 구현 및 성능 분석", "161103_충돌해결법 구현 및 성능 분석\161103_충돌해결법 구현 및 성능 분석.vcxproj", "{3C9B91F6-D752-4DF2-BF65-C544D0E0D626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C9B91F6-D752-4DF2-BF65-C544D0E0D626}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3C9B91F6-D752-4DF2-BF65-C544D0E0D626}.Debug|Win32.Build.0 = Debug|Win32
+		{3C9B91F6-D752-4DF2-BF65-C544D0E0D626}.Release|Win32.ActiveCfg = Release|Win32
+		{3C9B91F6-D752-4DF2-BF65-C544D0E0D626}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

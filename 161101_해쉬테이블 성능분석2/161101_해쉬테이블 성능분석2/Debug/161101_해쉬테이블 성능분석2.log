@@ -1,0 +1,4 @@
+﻿  161101_해쉬테이블 성능분석2.c
+d:\자료구조(2)\chapter11_해싱\161101_해쉬테이블 성능분석2\161101_해쉬테이블 성능분석2\161101_해쉬테이블 성능분석2.c(55): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(909) : 'itoa' 선언을 참조하십시오.
+  161101_해쉬테이블 성능분석2.vcxproj -> D:\자료구조(2)\Chapter11_해싱\161101_해쉬테이블 성능분석2\Debug\161101_해쉬테이블 성능분석2.exe
